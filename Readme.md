@@ -1,7 +1,4 @@
-### npx create-express-docker-app@latest 
-move to your folder 
-### cd folder-name
-### npm run start# 🚀 create-express-app
+🚀 create-express-app
 
 A simple CLI to scaffold an Express.js project with optional features like `dotenv`, `morgan`, ESLint, Docker, and `@/` aliasing.
 
